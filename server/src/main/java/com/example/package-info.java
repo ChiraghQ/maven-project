@@ -1,4 +1,4 @@
 /**
- * This is a package name dfd2w
+ * This is a package name.
  */
 package com.example;
